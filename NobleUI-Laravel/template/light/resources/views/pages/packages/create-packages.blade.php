@@ -13,7 +13,7 @@
     <div class="card">
       <div class="card-body">
         <h6 class="card-title">Create Packages</h6>
-        <form class="forms-sample" action="packages" method="POST">
+        <form class="forms-sample" action="/packages-submit" method="POST">
           <div class="form-group">
             <label for="title">Title</label>
             <input type="text" name="title" class="form-control" id="title" autocomplete="off" placeholder="Title">
